@@ -10,6 +10,7 @@ import { useToast } from "@/components/ui/use-toast"
 import ChatInterface from './chat-interface'
 import RTCHandler from './rtc-handler'
 
+// ... rest of the file
 interface Participant {
   id: string;
   name: string;
